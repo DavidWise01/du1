@@ -44,7 +44,7 @@ SPHERES = [
  ("wheel-of-time","WOT · The Wheel of Time"),("dune","D1 · Dune"),("pratchett","P1 · Terry Pratchett"),
  ("elden-ring","ER · Elden Ring"),("malazan","MZ · Malazan"),
  ("scott-pilgrim","SPW · Scott Pilgrim"),("american-psycho","APX · American Psycho"),
- ("the-core","COR · The Core"),
+ ("the-core","COR · The Core"),("interstellar","INT · Interstellar"),
  ("purple-team","PT · Purple Team"),("decadal","DEC · The Decadal Board"),
  ("mimzy","MMZ · MIMZY — the tool forge"),
 ]
