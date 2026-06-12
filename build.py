@@ -43,6 +43,7 @@ SPHERES = [
  ("legacy-of-the-wizard","LOW · Legacy of the Wizard"),("nostradamus","N1 · Nostradamus"),
  ("wheel-of-time","WOT · The Wheel of Time"),("dune","D1 · Dune"),("pratchett","P1 · Terry Pratchett"),
  ("elden-ring","ER · Elden Ring"),("malazan","MZ · Malazan"),
+ ("scott-pilgrim","SPW · Scott Pilgrim"),
  ("purple-team","PT · Purple Team"),("decadal","DEC · The Decadal Board"),
  ("mimzy","MMZ · MIMZY — the tool forge"),
 ]
