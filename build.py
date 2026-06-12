@@ -48,6 +48,7 @@ SPHERES = [
  ("the-fifth-element","FE5 · The Fifth Element"),
  ("purple-team","PT · Purple Team"),("decadal","DEC · The Decadal Board"),
  ("mimzy","MMZ · MIMZY — the tool forge"),
+ ("adas-law","ADL · Ada's Law"),
 ]
 
 ZONES = {
