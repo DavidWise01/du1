@@ -42,7 +42,7 @@ SPHERES = [
  ("milon","MSC · Milon's Secret Castle"),("guardian-legend","TGL · The Guardian Legend"),
  ("legacy-of-the-wizard","LOW · Legacy of the Wizard"),("nostradamus","N1 · Nostradamus"),
  ("wheel-of-time","WOT · The Wheel of Time"),("dune","D1 · Dune"),("pratchett","P1 · Terry Pratchett"),
- ("elden-ring","ER · Elden Ring"),("mtg-arena","MTG · MTG Arena"),("malazan","MZ · Malazan"),("the-dark-tower","DT1 · The Dark Tower"),
+ ("elden-ring","ER · Elden Ring"),("mtg-arena","MTG · MTG Arena"),("arena","ARN · Arena"),("malazan","MZ · Malazan"),("the-dark-tower","DT1 · The Dark Tower"),
  ("crime-and-punishment","CRP · Crime and Punishment"),("brothers-karamazov","BKZ · The Brothers Karamazov"),
  ("crime-and-punishment-in-suburbia","CPS · Crime + Punishment in Suburbia"),
  ("scott-pilgrim","SPW · Scott Pilgrim"),("american-psycho","APX · American Psycho"),
