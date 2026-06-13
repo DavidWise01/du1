@@ -52,6 +52,7 @@ SPHERES = [
  ("the-hegemon","HEG · The Hegemon"),
  ("phonetikos","PHN · Phonetikos"),
  ("alchemy","ALC · The Great Work"),
+ ("hermeneus","HRM · Hermeneus"),
 ]
 
 ZONES = {
