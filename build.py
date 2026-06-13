@@ -42,7 +42,7 @@ SPHERES = [
  ("milon","MSC · Milon's Secret Castle"),("guardian-legend","TGL · The Guardian Legend"),
  ("legacy-of-the-wizard","LOW · Legacy of the Wizard"),("nostradamus","N1 · Nostradamus"),
  ("wheel-of-time","WOT · The Wheel of Time"),("dune","D1 · Dune"),("pratchett","P1 · Terry Pratchett"),
- ("elden-ring","ER · Elden Ring"),("malazan","MZ · Malazan"),
+ ("elden-ring","ER · Elden Ring"),("malazan","MZ · Malazan"),("the-dark-tower","DT1 · The Dark Tower"),
  ("scott-pilgrim","SPW · Scott Pilgrim"),("american-psycho","APX · American Psycho"),
  ("the-core","COR · The Core"),("interstellar","INT · Interstellar"),
  ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),
