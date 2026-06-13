@@ -52,6 +52,7 @@ SPHERES = [
  ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),("the-wizard","WIZ · The Wizard"),
  ("egyptian-pantheon","NTR · The Egyptian Pantheon"),
  ("caste-system","JTI · The Caste System (वर्ण · जाति)"),
+ ("ttu1","TTU1 · Transformer Tech Universe"),
  ("purple-team","PT · Purple Team"),("decadal","DEC · The Decadal Board"),
  ("mimzy","MMZ · MIMZY — the tool forge"),
  ("adas-law","ADL · Ada's Law"),("propulsion-lab","PRL · Propulsion Lab"),
