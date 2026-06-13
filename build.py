@@ -51,6 +51,7 @@ SPHERES = [
  ("adas-law","ADL · Ada's Law"),("propulsion-lab","PRL · Propulsion Lab"),
  ("the-hegemon","HEG · The Hegemon"),
  ("phonetikos","PHN · Phonetikos"),
+ ("alchemy","ALC · The Great Work"),
 ]
 
 ZONES = {
