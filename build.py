@@ -50,6 +50,7 @@ SPHERES = [
  ("scott-pilgrim","SPW · Scott Pilgrim"),("american-psycho","APX · American Psycho"),
  ("the-core","COR · The Core"),("interstellar","INT · Interstellar"),
  ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),
+ ("egyptian-pantheon","NTR · The Egyptian Pantheon"),
  ("purple-team","PT · Purple Team"),("decadal","DEC · The Decadal Board"),
  ("mimzy","MMZ · MIMZY — the tool forge"),
  ("adas-law","ADL · Ada's Law"),("propulsion-lab","PRL · Propulsion Lab"),
