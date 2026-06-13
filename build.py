@@ -51,6 +51,7 @@ SPHERES = [
  ("the-core","COR · The Core"),("interstellar","INT · Interstellar"),
  ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),
  ("egyptian-pantheon","NTR · The Egyptian Pantheon"),
+ ("caste-system","JTI · The Caste System (वर्ण · जाति)"),
  ("purple-team","PT · Purple Team"),("decadal","DEC · The Decadal Board"),
  ("mimzy","MMZ · MIMZY — the tool forge"),
  ("adas-law","ADL · Ada's Law"),("propulsion-lab","PRL · Propulsion Lab"),
