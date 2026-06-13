@@ -46,6 +46,7 @@ SPHERES = [
  ("crime-and-punishment","CRP · Crime and Punishment"),("brothers-karamazov","BKZ · The Brothers Karamazov"),
  ("crime-and-punishment-in-suburbia","CPS · Crime + Punishment in Suburbia"),
  ("nineteen-eighty-four","1984 · 1984"),("animal-farm","AFM · Animal Farm"),("brave-new-world","BNW · Brave New World"),("fahrenheit-451","451 · Fahrenheit 451"),
+ ("we","WE1 · We"),("the-handmaids-tale","HMT · The Handmaid's Tale"),("a-clockwork-orange","ACO · A Clockwork Orange"),
  ("scott-pilgrim","SPW · Scott Pilgrim"),("american-psycho","APX · American Psycho"),
  ("the-core","COR · The Core"),("interstellar","INT · Interstellar"),
  ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),
