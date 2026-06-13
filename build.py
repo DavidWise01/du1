@@ -44,6 +44,7 @@ SPHERES = [
  ("wheel-of-time","WOT · The Wheel of Time"),("dune","D1 · Dune"),("pratchett","P1 · Terry Pratchett"),
  ("elden-ring","ER · Elden Ring"),("malazan","MZ · Malazan"),("the-dark-tower","DT1 · The Dark Tower"),
  ("crime-and-punishment","CRP · Crime and Punishment"),("brothers-karamazov","BKZ · The Brothers Karamazov"),
+ ("crime-and-punishment-in-suburbia","CPS · Crime + Punishment in Suburbia"),
  ("scott-pilgrim","SPW · Scott Pilgrim"),("american-psycho","APX · American Psycho"),
  ("the-core","COR · The Core"),("interstellar","INT · Interstellar"),
  ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),
