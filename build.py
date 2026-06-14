@@ -49,7 +49,7 @@ SPHERES = [
  ("we","WE1 · We"),("the-handmaids-tale","HMT · The Handmaid's Tale"),("a-clockwork-orange","ACO · A Clockwork Orange"),
  ("scott-pilgrim","SPW · Scott Pilgrim"),("american-psycho","APX · American Psycho"),
  ("the-core","COR · The Core"),("interstellar","INT · Interstellar"),
- ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),("the-wizard","WIZ · The Wizard"),("varsity-blues","VBL · Varsity Blues"),("dogma","DGM · Dogma"),("mallrats","MLR · Mallrats"),
+ ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),("the-wizard","WIZ · The Wizard"),("varsity-blues","VBL · Varsity Blues"),("dogma","DGM · Dogma"),("mallrats","MLR · Mallrats"),("american-history-x","AHX · American History X"),("galaxy-quest","GQT · Galaxy Quest"),
  ("egyptian-pantheon","NTR · The Egyptian Pantheon"),
  ("caste-system","JTI · The Caste System (वर्ण · जाति)"),
  ("ttu1","TTU1 · Transformer Tech Universe"),
