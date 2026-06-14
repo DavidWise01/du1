@@ -51,6 +51,7 @@ SPHERES = [
  ("the-core","COR · The Core"),("interstellar","INT · Interstellar"),
  ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),("the-wizard","WIZ · The Wizard"),("varsity-blues","VBL · Varsity Blues"),("dogma","DGM · Dogma"),("mallrats","MLR · Mallrats"),("american-history-x","AHX · American History X"),("galaxy-quest","GQT · Galaxy Quest"),("the-last-mimzy","LMZ · The Last Mimzy"),("hot-rod","HRD · Hot Rod"),("the-goods","GDS · The Goods"),
  ("egyptian-pantheon","NTR · The Egyptian Pantheon"),
+ ("population-dynamics","POP · Population Dynamics"),
  ("caste-system","JTI · The Caste System (वर्ण · जाति)"),
  ("ttu1","TTU1 · Transformer Tech Universe"),
  ("purple-team","PT · Purple Team"),("decadal","DEC · The Decadal Board"),
