@@ -40,7 +40,7 @@ SPHERES = [
  ("maas","M1 · Maas"),("card","C1 · Card"),("enderverse","EN1 · Enderverse"),("the-ansible","E2 · The Ansible"),
  ("ff6","FF6 · Final Fantasy VI"),("metroid","MET · Metroid"),("zelda","ZEL · Zelda"),
  ("milon","MSC · Milon's Secret Castle"),("guardian-legend","TGL · The Guardian Legend"),
- ("legacy-of-the-wizard","LOW · Legacy of the Wizard"),("mighty-bomb-jack","MBJ · Mighty Bomb Jack"),("nostradamus","N1 · Nostradamus"),
+ ("legacy-of-the-wizard","LOW · Legacy of the Wizard"),("bomb-jack","BJK · Bomb Jack"),("mighty-bomb-jack","MBJ · Mighty Bomb Jack"),("nostradamus","N1 · Nostradamus"),
  ("wheel-of-time","WOT · The Wheel of Time"),("dune","D1 · Dune"),("pratchett","P1 · Terry Pratchett"),
  ("elden-ring","ER · Elden Ring"),("mtg-arena","MTG · MTG Arena"),("arena","ARN · Arena"),("malazan","MZ · Malazan"),("the-dark-tower","DT1 · The Dark Tower"),
  ("crime-and-punishment","CRP · Crime and Punishment"),("brothers-karamazov","BKZ · The Brothers Karamazov"),
