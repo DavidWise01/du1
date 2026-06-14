@@ -49,7 +49,7 @@ SPHERES = [
  ("we","WE1 · We"),("the-handmaids-tale","HMT · The Handmaid's Tale"),("a-clockwork-orange","ACO · A Clockwork Orange"),
  ("scott-pilgrim","SPW · Scott Pilgrim"),("american-psycho","APX · American Psycho"),
  ("the-core","COR · The Core"),("interstellar","INT · Interstellar"),
- ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),("the-wizard","WIZ · The Wizard"),("varsity-blues","VBL · Varsity Blues"),("dogma","DGM · Dogma"),("mallrats","MLR · Mallrats"),("american-history-x","AHX · American History X"),("galaxy-quest","GQT · Galaxy Quest"),("the-last-mimzy","LMZ · The Last Mimzy"),("hot-rod","HRD · Hot Rod"),("the-goods","GDS · The Goods"),("hackers","HAK · Hackers"),
+ ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),("the-wizard","WIZ · The Wizard"),("varsity-blues","VBL · Varsity Blues"),("dogma","DGM · Dogma"),("mallrats","MLR · Mallrats"),("american-history-x","AHX · American History X"),("galaxy-quest","GQT · Galaxy Quest"),("the-last-mimzy","LMZ · The Last Mimzy"),("hot-rod","HRD · Hot Rod"),("the-goods","GDS · The Goods"),("hackers","HAK · Hackers"),("lawnmower-man","LMM · The Lawnmower Man"),
  ("egyptian-pantheon","NTR · The Egyptian Pantheon"),
  ("population-dynamics","POP · Population Dynamics"),("momus","MOM · The Peer (Momus)"),
  ("caste-system","JTI · The Caste System (वर्ण · जाति)"),
