@@ -54,7 +54,7 @@ SPHERES = [
  ("population-dynamics","POP · Population Dynamics"),("momus","MOM · The Peer (Momus)"),
  ("caste-system","JTI · The Caste System (वर्ण · जाति)"),
  ("ttu1","TTU1 · Transformer Tech Universe"),
- ("purple-team","PT · Purple Team"),("decadal","DEC · The Decadal Board"),
+ ("purple-team","PT · Purple Team"),("decadal","DEC · The Decadal Board"),("the-amphitheater","AMP · The Greek Mirror"),
  ("mimzy","MMZ · MIMZY — the tool forge"),
  ("adas-law","ADL · Ada's Law"),("propulsion-lab","PRL · Propulsion Lab"),
  ("the-hegemon","HEG · The Hegemon"),
@@ -88,6 +88,8 @@ def harvest():
                 zone = "elemental"
             elif repo == "decadal":
                 zone = "carbon"  # real humans of the Board
+            elif repo == "the-amphitheater":
+                zone = "carbon"  # real philosophers of the Mirror
             else:
                 zone = NAT2ZONE.get(nat, "carbon")
             lives.append(dict(n=name, u=uni, z=zone,
