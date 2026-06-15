@@ -36,7 +36,7 @@ REC = {
 
 # (repo, display universe, default link pattern)
 SPHERES = [
- ("asimov","A1 · Asimov"),("heinlein","H1 · Heinlein"),("ursula","U1 · Le Guin"),
+ ("asimov","A1 · Asimov"),("joe-abercrombie","JA1 · Joe Abercrombie"),("heinlein","H1 · Heinlein"),("ursula","U1 · Le Guin"),
  ("maas","M1 · Maas"),("card","C1 · Card"),("enderverse","EN1 · Enderverse"),("the-ansible","E2 · The Ansible"),
  ("ff6","FF6 · Final Fantasy VI"),("metroid","MET · Metroid"),("zelda","ZEL · Zelda"),
  ("milon","MSC · Milon's Secret Castle"),("guardian-legend","TGL · The Guardian Legend"),
