@@ -36,7 +36,7 @@ REC = {
 
 # (repo, display universe, default link pattern)
 SPHERES = [
- ("asimov","A1 · Asimov"),("joe-abercrombie","JA1 · Joe Abercrombie"),("heinlein","H1 · Heinlein"),("ursula","U1 · Le Guin"),
+ ("asimov","A1 · Asimov"),("joe-abercrombie","JA1 · Joe Abercrombie"),("memory-sorrow-and-thorn","MST · Memory Sorrow & Thorn"),("the-last-king-of-osten-ard","LKO · The Last King of Osten Ard"),("otherland","OTH · Otherland"),("shadowmarch","SHM · Shadowmarch"),("bobby-dollar","BBD · Bobby Dollar"),("tailchasers-song","TCS · Tailchaser's Song"),("the-war-of-the-flowers","WOF · The War of the Flowers"),("calibans-hour","CBH · Caliban's Hour"),("child-of-an-ancient-city","CAC · Child of an Ancient City"),("the-ordinary-farm","ODF · The Ordinary Farm"),("tad-williams-shorter-works","TWS · Tad Williams Shorter Works"),("heinlein","H1 · Heinlein"),("ursula","U1 · Le Guin"),
  ("maas","M1 · Maas"),("card","C1 · Card"),("enderverse","EN1 · Enderverse"),("the-ansible","E2 · The Ansible"),
  ("ff6","FF6 · Final Fantasy VI"),("metroid","MET · Metroid"),("zelda","ZEL · Zelda"),
  ("milon","MSC · Milon's Secret Castle"),("guardian-legend","TGL · The Guardian Legend"),
