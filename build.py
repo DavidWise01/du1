@@ -47,7 +47,7 @@ SPHERES = [
  ("crime-and-punishment-in-suburbia","CPS · Crime + Punishment in Suburbia"),
  ("nineteen-eighty-four","1984 · 1984"),("animal-farm","AFM · Animal Farm"),("brave-new-world","BNW · Brave New World"),("fahrenheit-451","451 · Fahrenheit 451"),
  ("we","WE1 · We"),("the-handmaids-tale","HMT · The Handmaid's Tale"),("a-clockwork-orange","ACO · A Clockwork Orange"),
- ("scott-pilgrim","SPW · Scott Pilgrim"),("dodgeball","DGB · DodgeBall"),("american-psycho","APX · American Psycho"),
+ ("scott-pilgrim","SPW · Scott Pilgrim"),("dodgeball","DGB · DodgeBall"),("zoolander","ZOO · Zoolander"),("american-psycho","APX · American Psycho"),
  ("the-core","COR · The Core"),("interstellar","INT · Interstellar"),
  ("the-fifth-element","FE5 · The Fifth Element"),("waterworld","WTR · Waterworld"),("the-wizard","WIZ · The Wizard"),("varsity-blues","VBL · Varsity Blues"),("dogma","DGM · Dogma"),("mallrats","MLR · Mallrats"),("american-history-x","AHX · American History X"),("galaxy-quest","GQT · Galaxy Quest"),("the-last-mimzy","LMZ · The Last Mimzy"),("hot-rod","HRD · Hot Rod"),("the-goods","GDS · The Goods"),("hackers","HAK · Hackers"),("lawnmower-man","LMM · The Lawnmower Man"),("three-body-problem","3BP · The Three-Body Problem"),("trisolaris-tech","3BT · The Technologia of Trisolaris"),("the-atom","ATM · The Atom"),("authorship","AUT · The Authorship"),("quantum-gravity","QGR · Quantum Gravity"),("the-library","LIB · The Library"),("gravity-bracket","GBR · The Gravity Bracket"),
  ("egyptian-pantheon","NTR · The Egyptian Pantheon"),
