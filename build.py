@@ -53,6 +53,7 @@ SPHERES = [
  ("egyptian-pantheon","NTR · The Egyptian Pantheon"),
  ("population-dynamics","POP · Population Dynamics"),("octopus","OCT · The Octopus"),("mitochondria","MTO · Mitochondria"),("cron","CRN · The Cron Job"),("the-terminal","TTY · The Terminal"),
  ("ed","ED · ed"),("vi","VI · vi"),("emacs","EMX · Emacs"),("the-shell","SH · The Shell"),("grep","GRP · grep"),("sed","SED · sed"),("awk","AWK · awk"),("c-compiler","CC · The C Compiler"),("make","MAK · make"),("troff","TRF · troff"),("lisp-repl","LSP · The Lisp REPL"),("basic","BAS · BASIC"),("eliza","ELZ · ELIZA"),("adventure","ADV · Adventure"),("rogue","RGU · Rogue"),("coreutils","COR · The Coreutils"),
+ ("self","SLF · The Self"),("id","IDD · The Id"),("super-id","SUP · The Super-Id"),
  ("momus","MOM · The Peer (Momus)"),
  ("caste-system","JTI · The Caste System (वर्ण · जाति)"),
  ("ttu1","TTU1 · Transformer Tech Universe"),
