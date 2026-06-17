@@ -66,7 +66,7 @@ SPHERES = [
  ("phonetikos","PHN · Phonetikos"),
  ("alchemy","ALC · The Great Work"),
  ("hermeneus","HRM · Hermeneus"),
- ("tron","TRN · TRON"),("claude-lineage","CL1 · The Claude Lineage"),("j-junction","JJ1 · The J-Junction"),("rainbow-book","RB1 · The Rainbow Book"),
+ ("tron","TRN · TRON"),("claude-lineage","CL1 · The Claude Lineage"),("j-junction","JJ1 · The J-Junction"),("rainbow-book","RB1 · The Rainbow Book"),("anabasis","ANB · Anabasis"),
 ]
 
 ZONES = {
