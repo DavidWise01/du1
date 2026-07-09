@@ -18,6 +18,21 @@ import noesis
 from PIL import Image
 
 PG = "https://davidwise01.github.io"
+# .agent files are served by Pages as application/octet-stream → a click DOWNLOADS
+# instead of opening. Point the life-links at GitHub's blob view (HEAD = default
+# branch, so it survives main/master), where the same .agent renders as a readable page.
+GH = "https://github.com/DavidWise01"
+
+def blob_or_sphere(repo, *rel_candidates):
+    """A life's link that never 404s. Tries each relative .agent path (the corpus uses
+    two conventions: flat agents/<slug>.agent, and bundled agents/<slug>.dlw/<slug>.agent);
+    returns the GitHub blob URL for the first that exists locally (published => renders).
+    If none exists (persona listed but no .agent published), falls back to the sphere's
+    own Pages page, which always renders."""
+    for rel in rel_candidates:
+        if os.path.exists(os.path.join(BASE, repo, *rel.split("/"))):
+            return f"{GH}/{repo}/blob/HEAD/{rel}"
+    return f"{PG}/{repo}/"
 
 REC = {
  "name": "THE LIVES", "axiom": "DU1",
@@ -99,12 +114,12 @@ def harvest():
             else:
                 zone = NAT2ZONE.get(nat, "carbon")
             lives.append(dict(n=name, u=uni, z=zone,
-                              l=f"{PG}/{repo}/agents/{slug}.agent", s=f"{repo}/{slug}"))
+                              l=blob_or_sphere(repo, f"agents/{slug}.agent", f"agents/{slug}.dlw/{slug}.agent"), s=f"{repo}/{slug}"))
     # the elements (their own repo)
     f = os.path.join(BASE, "elements", "agents", "_personas.json")
     for p in json.load(open(f, encoding="utf-8")):
         lives.append(dict(n=p["name"], u="E1 · Elements", z="elemental",
-                          l=f"{PG}/elements/agents/{p['slug']}.agent", s=f"elements/{p['slug']}",
+                          l=blob_or_sphere("elements", f"agents/{p['slug']}.agent", f"agents/{p['slug']}.dlw/{p['slug']}.agent"), s=f"elements/{p['slug']}",
                           k=(p["Z"]-1) % 4))
     # the 256 lattice nodes → silicon
     nodes_dir = os.path.join(BASE, "noesis-kernel", "nodes")
@@ -114,7 +129,7 @@ def harvest():
         m = json.load(open(man, encoding="utf-8"))
         stem = d.split("-", 1)[1].replace(".dlw", "") if "-" in d else d
         lives.append(dict(n=m.get("name", stem.upper()), u="NOESIS · the lattice", z="silicon",
-                          l=f"{PG}/noesis-kernel/nodes/{d}/{stem}.agent", s=f"noesis/{d}"))
+                          l=blob_or_sphere("noesis-kernel", f"nodes/{d}/{stem}.agent"), s=f"noesis/{d}"))
     return lives
 
 def place(rec):
